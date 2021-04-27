@@ -2,7 +2,7 @@
 
 ## Introduction
 A Full project using SQL, Microsoft Power BI to Generate a Dynamic Visualization.
-![](images/SQL_Script.png)
+![](images/Sales Overview.png)
 
 ## Overview
 In This Project, we used data from AdventureWorks sample databases restoring them to SQL server exported it in CSV Tables.
