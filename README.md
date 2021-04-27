@@ -7,7 +7,7 @@ A Full project using SQL, Microsoft Power BI to Generate a Dynamic Visualization
 ## Overview
 In This Project, we used data from AdventureWorks sample databases restoring them to SQL server exported it in CSV Tables.
 And Provide a Dynamic Dashboard and Report helps Sales men and workers in the company to easliy fillter the amont of Sales and budget by Date, Product Categoray and Cutomer City.
-![](images/SQL_Script.jpg)
+![](images/SQL_Script.png)
 
 #### Find me in social media
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/mohamedmostafa1997pro "Github")
