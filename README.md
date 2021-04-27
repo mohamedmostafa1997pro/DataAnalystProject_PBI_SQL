@@ -9,6 +9,14 @@ In This Project, we used data from AdventureWorks sample databases restoring the
 And Provide a Dynamic Dashboard and Report helps Sales men and workers in the company to easliy fillter the amont of Sales and budget by Date, Product Categoray and Cutomer City.
 ![](images/SQL_Script.png)
 
+## Files
+As you can find in this repository 5 csv files which include :
+* Exported Data - DIM_Calendar.
+* Exported Data - DIM_Customers.
+* Exported Data - DIM_Products.
+* Exported Data - FACT_InternetSales.
+* Sent Over Data - SalesBudget.
+
 #### Find me in social media
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/mohamedmostafa1997pro "Github")
 [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/mohamedmostafamohamed/ "LinkedIn")
