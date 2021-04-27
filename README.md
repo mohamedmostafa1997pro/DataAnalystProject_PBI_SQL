@@ -3,6 +3,8 @@
 ## Introduction
 A Full project using SQL, Microsoft Power BI to Generate a Dynamic Visualization.
 ![](images/Sales_Overview.png)
+![](images/Product_Details.png)
+![](images/Customer_Details.png)
 
 ## Overview
 In This Project, we used data from AdventureWorks sample databases restoring them to SQL server exported it in CSV Tables.
@@ -25,7 +27,8 @@ As you can find in this repository 5 csv files which include :
 - Microsoft Office programms (Excel, Word, Power Point)
 
 ### Sources
-- [AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+- [AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) 
+![](images/Database.png)
 
 #### Find me in social media
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/mohamedmostafa1997pro "Github")
