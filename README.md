@@ -23,8 +23,7 @@ As you can find in this repository 5 csv files which include :
 - Microsoft Office programms (Excel, Word, Power Point)
 
 ### Sources
-- [AdventureWorks sample databases].(https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
-- [![Instagram]](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+- [AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
 #### Find me in social media
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/mohamedmostafa1997pro "Github")
