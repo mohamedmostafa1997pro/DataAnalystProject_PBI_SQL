@@ -18,7 +18,7 @@ As you can find in this repository 5 csv files which include :
 * Sent Over Data - SalesBudget.
 
 ### Reports
-- [Sales Report_PowerBI](https://app.powerbi.com/reportEmbed?reportId=b09e54b5-2e09-447f-8e25-79a4adcf66cc&autoAuth=true&ctid=33936b55-1762-451d-8c89-45d3f22ac300&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D):
+- [Sales Report_PowerBI](https://app.powerbi.com/reportEmbed?reportId=b09e54b5-2e09-447f-8e25-79a4adcf66cc&autoAuth=true&ctid=33936b55-1762-451d-8c89-45d3f22ac300&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
 ### Used Tools
 - Microsoft SQL Server
 - Microsoft Power BI
