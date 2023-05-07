@@ -1,4 +1,4 @@
-# DataAnalystProject_PBI_SQL
+# Data_Analytics_Sales_Project_PBI_SQL
 
 ## Introduction
 A Full project using SQL, Microsoft Power BI to Generate a Dynamic Visualization.
